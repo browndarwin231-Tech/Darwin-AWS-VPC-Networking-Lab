@@ -111,7 +111,7 @@ Created an Internet Gateway for external connectivity.
 
 Attached the Internet Gateway to the custom VPC.
 
-![Internet Gateway Attached](screenshots/07-internet-gateway-attached.png)
+
 
 ---
 
